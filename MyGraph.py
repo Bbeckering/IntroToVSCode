@@ -5,7 +5,7 @@ x = np.linspace(0, 20, 100)
 plt.plot(x, np.sin(x))
 plt.show()
 
-print ("Hello there!")
+print ("Hi there!")
 # 1 Create a Virtual Enviornment (VE)
         # Command to create VE: py -3 -m venv *myvenv*
             # *myvenv* is a placeholder name for your virtual enviornments name
